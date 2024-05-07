@@ -1,4 +1,4 @@
 <?php
 echo "Hola mundo \n";
-echo "<h2>Aprendiendo GIT</h2>";
-echo "Añadimos algo más";
+echo "<h2>Aprendiendo 123 GIT</h2>";
+echo "hjghg Añadimos algo más";
